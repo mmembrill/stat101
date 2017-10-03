@@ -2,7 +2,7 @@
 
 ![Alternative text](https://www.macalester.edu/~kaplan/kaplan.jpg)
 
-<src img = "https://www.macalester.edu/~kaplan/kaplan.jpg" width = '10%'>
+<src img = "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi9wNLr69TWAhXGlFQKHfw7ArcQjRwIBw&url=https%3A%2F%2Fnylander.wordpress.com%2F2008%2F12%2F29%2Fpolynomial-roots%2F&psig=AOvVaw2yZcx-e68VLtnvL0mLJsyR&ust=1507133468716902" width = '10%'> 
 
 > Note to instructors: If you are an instructor who was directed to this site so that you can set up your own web page, you'll find the instructions at <http://github.com/dtkaplan/stat101>. 
 
